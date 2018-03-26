@@ -21,5 +21,9 @@ public class SpringKafkaProducerListener implements ProducerListener<String, Str
 		+",信息："+value);
 	}
 
+	
+	
+	
+	
 
 }
